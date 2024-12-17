@@ -1,0 +1,6 @@
+# Archivos y carpetas temporales de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
